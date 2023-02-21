@@ -1,5 +1,10 @@
 # Cell-Image-Disease-Classification
-Develop a neural network to classify whether a cell is infected or not using an MLP Architecture
+Develop a neural network to classify whether a cell is infected or not using an MLP Architecture.
+
+Dataset: https://drive.google.com/drive/folders/1-tjbaqsCIxgd4tLJlp-B0xNjfCWXg7DZ?usp=sharing
+
+The dataset contains 27,558 cell images with equal instances of parasitized and uninfected cells.
+
 ## EDA
 <img width="544" alt="Screenshot 2023-02-21 at 8 10 15 PM" src="https://user-images.githubusercontent.com/80636783/220375286-7e5389b9-eaa2-4e9a-821e-7919979b468f.png">
 <img width="521" alt="Screenshot 2023-02-21 at 8 10 31 PM" src="https://user-images.githubusercontent.com/80636783/220375343-cc3564b2-df3f-4f42-8c68-11520395fb15.png">
